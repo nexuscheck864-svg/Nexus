@@ -1,0 +1,36 @@
+entrypoint = "main.py"
+modules = ["python-3.11"]
+
+[nix]
+channel = "stable-24_05"
+
+[unitTest]
+language = "python3"
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix"]
+
+[deployment]
+run = ["python3", "main.py"]
+deploymentTarget = "cloudrun"
+
+[workflows]
+runButton = "Run Telegram Bot"
+
+[[workflows.workflow]]
+name = "Run CC Checker"
+author = 43978591
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd cc-che-vs-4/cc-che/CC-Checker/CC-Checker && python3 main.py"
+
+[[workflows.workflow]]
+name = "Run Telegram Bot"
+author = 43978591
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python run_bot.py"

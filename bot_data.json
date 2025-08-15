@@ -1,0 +1,151 @@
+{
+  "users": {
+    "5537246556": {
+      "credits": 2247,
+      "premium": true,
+      "premium_until": "2025-07-24T05:23:16.737856",
+      "last_bonus": "2025-07-01T04:55:36.322548",
+      "total_generated": 430,
+      "total_checked": 189,
+      "join_date": "2025-06-26T01:49:27.147130",
+      "last_game": "2025-07-01T04:57:32.358388"
+    },
+    "7425433745": {
+      "credits": 20,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-06-27T13:13:29.609543",
+      "warns": 0
+    },
+    "123456789": {
+      "credits": 60,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-06-28T06:41:28.723421",
+      "warns": 0
+    },
+    "7943451312": {
+      "credits": 10,
+      "premium": true,
+      "premium_until": "2025-07-20T05:32:39.026752",
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:22:51.981707",
+      "warns": 0
+    },
+    "5892646826": {
+      "credits": 7,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 10,
+      "join_date": "2025-07-19T05:25:22.938146",
+      "warns": 0
+    },
+    "7825431726": {
+      "credits": 7,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 20,
+      "total_checked": 10,
+      "join_date": "2025-07-19T05:26:54.324973",
+      "warns": 0
+    },
+    "7362523577": {
+      "credits": 10,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:27:25.141325",
+      "warns": 0
+    },
+    "7530794197": {
+      "credits": 7,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 10,
+      "join_date": "2025-07-19T05:29:30.086463",
+      "warns": 0
+    },
+    "7807863774": {
+      "credits": 10,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:30:09.596246",
+      "warns": 0
+    },
+    "1926289138": {
+      "credits": 10,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:30:52.137946",
+      "warns": 0
+    },
+    "6889823515": {
+      "credits": 10,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:30:57.952334",
+      "warns": 0
+    },
+    "7919380837": {
+      "credits": 10,
+      "premium": false,
+      "premium_until": null,
+      "last_bonus": null,
+      "last_game": null,
+      "total_generated": 0,
+      "total_checked": 0,
+      "join_date": "2025-07-19T05:31:44.133855",
+      "warns": 0
+    }
+  },
+  "staff_roles": {
+    "5537246556": {
+      "role": "1",
+      "assigned_date": "2025-06-28T01:03:49.733552",
+      "warn_count": 0
+    }
+  },
+  "bot_maintenance": false,
+  "maintenance_message": "",
+  "check_chats": {},
+  "pending_checks": {},
+  "deleted_links": {},
+  "permissions": {},
+  "security_settings": {},
+  "admin_log_channels": {},
+  "admin_action_logs": []
+}

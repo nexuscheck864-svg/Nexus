@@ -1,0 +1,18 @@
+
+services:
+  - type: web
+    name: chernobil-chlv-bot
+    env: python
+    buildCommand: pip install -r requirements_bot.txt
+    startCommand: python main.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_IDS
+        sync: false
+      - key: FOUNDER_IDS
+        sync: false
+      - key: COFOUNDER_IDS
+        sync: false
+      - key: PORT
+        value: 5000
